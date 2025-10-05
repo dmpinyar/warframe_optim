@@ -1,0 +1,25 @@
+Duration,Primed Continuity,.55,14
+Duration,Augur Message,.24,7
+Duration,Constitution,.28,13
+Duration,Nira's Hatred,.15,9
+Duration,Narrow Minded,.99,16
+Duration,Fleeting Expertise,-.6,11
+Duration,Transient Fortitude,-.275,16
+Efficiency,Boreal's Hatred,.15,9
+Efficiency,Fleeting Expertise,.6,11
+Efficiency,Streamline,.3,9
+Efficiency,Blind Rage,-.55,16
+Range,Narrow Minded,-.66,16
+Range,Stretch,.45,11
+Range,Augur Reach,.3,7
+Range,Cunning Drift,.15,11,Exilus
+Range,Overextended,.9,11
+Strength,Overextended,-.6,11
+Strength,Amar's hatred,.15,9
+Strength,Umbral Intensify,.44,16
+Strength,Augur Secrets,.24,7
+Strength,Energy Conversion,.5,15
+Strength,Growing Power,.25,7,Aura
+Strength,Power Drift,.15,9,Exilus
+Strength,Transient Fortitude,.55,16
+Strength,Blind Rage,.99,16

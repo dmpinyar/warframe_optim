@@ -1,0 +1,5 @@
+Arcane,Duration,Molt Efficiency,.36
+Archon,Duration,Dur Red Shard,.15
+Archon,Strength,Str Red Shard,.15
+Arcane,Strength,Molt Augmented,.6
+Arcane,Strength,Molt Vigor,.45
